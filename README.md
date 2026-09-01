@@ -56,7 +56,6 @@ mini-rag/
 │   └── notes.txt
 │
 ├── main.py
-├── requirements.txt
 ├── .gitignore
 └── .env
 ```
