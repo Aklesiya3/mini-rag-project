@@ -1,0 +1,13 @@
+Photosynthesis is the process by which green plants convert light energy into chemical energy.
+
+Plants use sunlight, carbon dioxide, and water to produce glucose and oxygen.
+
+Chlorophyll is the green pigment that absorbs light energy during photosynthesis.
+
+Photosynthesis mainly takes place in the chloroplasts of plant cells.
+
+The two main stages of photosynthesis are the light-dependent reactions and the Calvin cycle.
+
+The light-dependent reactions capture light energy and produce ATP and NADPH.
+
+The Calvin cycle uses carbon dioxide, ATP, and NADPH to produce glucose.
